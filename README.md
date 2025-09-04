@@ -1,6 +1,6 @@
 # About Me
 
-My name is Marin, I'm a Computer Science Major and Art History Minor!
+My name is Marin, I'm a CS major and Art History minor!
 
 Some fun facts about me:
 1. I have two dogs
