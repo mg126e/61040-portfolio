@@ -3,7 +3,7 @@ This will be your portfolio repository. Use this as a [template repository](http
 
 # About Me
 
-### My name is Marin, I'm a Computer Science Major and Art History Minor!
+My name is Marin, I'm a Computer Science Major and Art History Minor!
 
 Some fun facts about me:
 1. I have two dogs
