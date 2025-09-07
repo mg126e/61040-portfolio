@@ -88,17 +88,17 @@ My cravings change week to week and it’s difficult to make healthy decisions w
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. People with periods. People who struggle to find nutritious snacks that fuel their bodies and keep up with their cycle.
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Dining halls: Dining halls who benefit from students’ patronage would not like students choosing other places to get snacks.
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Stores that advertise wholistic foods (Trader Joes): They would appreciate greater patronage if users were looking for food with short ingredient lists. 
-<br>
+<br><br>
 4.	Closet additions. I often see clothes others are wearing that I would like to emulate. A reverse image searching app to find other pieces similar to the image I enter that I can purchase and suggest other outfits I may like.
-<br>
+<br><br>
 5.	Room sketch. It’s difficult to guess what my college dorm will look like over the summer. This app would allow me to look up my dorm number and create an estimation of the room from floor plan to decorate and experiment before I move in.
-<br>
+<br><br>
 6.	Fresh face. I struggle to regularly clean my make-up and keep track of expiration dates. I enter all my products into the app, and it recommends make-up looks to use the breadth of my products before their expiration date and reminds me to clean my products with detailed instructions.
-<br>
+<br><br>
 7.	Park place. I often struggle to find park, especially in the city and this discourages me from driving around MIT. An app the crowdsources parking availability around campus.
-<br>
+<br><br>
 8.	Where’s the Loco. The locomotion bus that travels between MIT and Wellesley has an inconsistent schedule due to traffic and it is difficult to guess if it is late for my stop or was early and I missed the bus. This app would track the Loco and notify users when the bus is running late or arrives at a stop early (and will potentially leave early).
-<br>
+<br><br>
 9.	Pause. Doomscrolling eats up a lot of my time and I have a hard time avoiding social media without deleting all my apps. This app would track time on social media apps selected by the user and suggest pauses to do activities like taking three deep breaths.
-<br>
+<br><br>
 10.	Forecast for you. I plan my outfits for the day as part of my nightly routine but would like to plan ahead to a greater extent. This weather app would tie into my google calendar and suggest layers or breathable clothing for my day based on when my activities start and end.
