@@ -2,27 +2,29 @@
 Marin Gray
 
 1.	Wellesley Student Athlete Hub
-•	Domain: Athletic Schedules and Huddle
+<br> &nbsp;&nbsp;&nbsp;&nbsp;•	Domain: Athletic Schedules and Huddle
 As a former student athlete, the administration emphasizes supporting other teams, specifically attending other teams sports games. In the past, there was an award given to the team that attended the most games to support their fellow student athletes. In addition, as student athletes on a small campus we like to support each other because even a small crowd can give a lot of motivation.
-•	Problem: Lack of connection and ease of use
+<br> &nbsp;&nbsp;&nbsp;&nbsp;•	Problem: Lack of connection and ease of use
 All the team schedules are on separate webpages and run exclusively by the college. There is no centralized location to view all the games and keep up with wins and losses. It would also be great to see my friend’s highlights without having to rewatch the whole game video. 
-•	Selection:
-a. Live updates. I believe Wellesley College provides live updates best on their websites and I want this app to have more of a community focus.
-b. Auto upload highlights. I was unsure how to execute this feature and I believe Student Athletes would engage more if they uploaded their own highlights.
-•	Comparable: Huddle, is a platform to buy and view game footage, however it does not have game schedules. Wellesley College Athletics page: Wellesley’s website with all athletic teams’ schedules, rosters, and live updates for games, however there is no central way to view the schedules.
-•	Evidence:
-a. Athletic events can promote school spirit and a sense of belonging that researchers found increases student retention.  
-b. The Washington Post cites athletic events as community and tradition builders that can create community across generations with alumni continuing to support their schools by patronizing games and matches.
-c. Student, Avyay sees his friends and fellow students take an interest in their community after rallying around their men’s basketball team and wants to continue this trend with more community building events that make AU students proud of their institution.
-d. A study found that after students became more passionate about their athletic teams they cared more about event atmosphere. This would be difficult to create through the app without other incentives to draw people to games.
-e. Campbell explains how greater publicity leads to greater turnout at games. Her research is with social media saying the “NBA shares a correlation between top five most attended teams and the top five most followed on Instagram, twitter, and Facebook”. However, I believe this line of thinking can be applied to greater publicity of games, gaining more attendance.
-f. In their study, Barrett and Farr found that students were more likely to attend their DII athletic games after marketing initiatives if they were already inclined toward attending, like student athletes. 
-g. Student athlete, Abby Yuan says “It makes me want to play better” when the stands are filled and the article clearly links athlete intensity and performance with fan attendance.
-•	Features: Calendar, a centralized calendar with all athletic teams’ game schedules, location of games. Highlights, a huddle like feature that lets student athletes add highlights from their games to share with their community.
-•	Stakeholders:
-a. Student athletes. They suffer from lack of publicity for their games and therefore less support. Have a harder time supporting their fellow student athletes and winning the administrations competition for most supportive athletic team. 
-b. Nonstudent athletes. They don’t attend games on campus because finding team schedules is difficult leading to less college pride and lower sense of community.
-c.  Admission: College admissions cannot depend on Wellesley College sports events to attract potential students as they are not community bonding events due to the lack of spectators.  
+<br> &nbsp;&nbsp;&nbsp;&nbsp;•	Selection:
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Live updates. I believe Wellesley College provides live updates best on their websites and I want this app to have more of a community focus.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Auto upload highlights. I was unsure how to execute this feature and I believe Student Athletes would engage more if they uploaded their own highlights.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;•	Comparable: 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.[Huddle](https://huddlehuddle.com/), is a platform to buy and view game footage, however it does not have game schedules. 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.[Wellesley College Athletics page](https://wellesleyblue.com/index.aspx), has all the teams’ schedules, rosters, and live updates for games, however there is no central way to view the schedules.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;•	Evidence:
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Athletic events can promote school spirit](https://www.insidehighered.com/news/student-success/college-experience/2024/09/05/seven-ways-promote-school-spirit-and-college) and a sense of belonging that researchers found [increases student retention](https://journals.sagepub.com/doi/full/10.1177/15210251241231242).  
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. The Washington Post says [athletic events are community and tradition builders](https://www.vicksburgpost.com/2025/05/15/how-college-sports-influence-campus-culture-and-student-identity/) that can create community across generations with alumni continuing to support their schools by patronizing games and matches.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Student, [Avyay](https://www.theeagleonline.com/article/2025/04/opinion-how-american-university-can-improve-school-spirit) says after the men’s basketball team's success his friends and fellow students took a greater interest in their community. This spures him to continue this trend with more community building events that make AU students proud of their institution.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [A study from 2021](https://www.researchgate.net/publication/352671807_Declining_Student_Attendance_at_College_Sporting_Events_Testing_the_Relative_Influence_of_Constraints) found that after students became more passionate about their athletic teams they cared more about the event atmosphere. This would be difficult to create through the app without other incentives to draw people to games.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Campbell explains how greater publicity leads to greater turnout](https://app.carthage.edu/forms/scholars/presentation/727/detail/) at games. The top five most attended teams in the NBA are also the the top five most followed teams on social media. However, I believe this line of thinking can be applied the app providing greater publicity and gaining more attendance.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [In their study, Barrett and Farr](https://thesportjournal.org/article/marketing-division-ii-athletics-to-college-students-the-perceived-effectiveness-of-internally-focused-promotion-tactics/?utm_source=chatgpt.com) found that students were more likely to attend their DII athletic games after marketing initiatives if they were already inclined toward attending, like student athletes. So the app's target audiance would be student athletes to maximize it's impact.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Student athlete, [Abby Yuan says “It makes me want to play better”](https://skylinepost.org/6831/sports/unpacking-the-impact-of-fan-attendance-on-student-athletes/) when the stands are filled and the article clearly links athlete intensity and performance with fan attendance. This shows greater attendence and team success is a cyclical issue.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;•	Features: Calendar, a centralized calendar with all athletic teams’ game schedules, location of games. Highlights, a huddle like feature that lets student athletes add highlights from their games to share with their community.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;•	Stakeholders:
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Student athletes. They suffer from lack of publicity for their games and therefore less support. Have a harder time supporting their fellow student athletes and winning the administrations competition for most supportive athletic team. 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Nonstudent athletes. They don’t attend games on campus because finding team schedules is difficult leading to less college pride and lower sense of community.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.  Admission: College admissions cannot depend on Wellesley College sports events to attract potential students as they are not community bonding events due to the lack of spectators.  
 2.	Wellesley Course Map
 •	Domain: Selecting classes
 I have used Coursicle for the past two years to organize my academic schedule. I like the design; it clearly denotes the time of each class and helps me plan my route between classes. After settling on my academic schedule I have take a picture of my Coursicle and used it throughout the semester to verify the times of my classes. 
