@@ -11,8 +11,8 @@ Some fun facts about me:
 
 # Table of Contents
 [Link to Assignment 1](assignments/assignment1.md)
-Link to Problem Set 1
-&nbsp;&nbsp;[Link to Exercise 1] (assignments/Exercise1.md)
-&nbsp;&nbsp;[Link to Exercise 2] (assignments/Exercise2.md)
-&nbsp;&nbsp;[Link to Exercise 3] (assignments/Exercise3.md)
-&nbsp;&nbsp;[Link to Exercise 4] (assignments/Exercise4.md)
+<br>Link to Problem Set 1
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Link to Exercise 1](assignments/Exercise1.md)
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Link to Exercise 2](assignments/Exercise2.md)
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Link to Exercise 3](assignments/Exercise3.md)
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Link to Exercise 4](assignments/Exercise4.md)
