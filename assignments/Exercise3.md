@@ -20,4 +20,7 @@
       * <strong>Effects</strong> creates new randomly generated and unique Token with optional expiration time and with the same permissions as the entered Token and deletes entered Token. Associates new Token with Owner
     + Delete (Token: String, owner: User,)
 	     * <strong>Requires</strong> a valid Token and a valid user who is the owner
-       * <strong>Effects</strong> deletes Token
+       * <strong>Effects</strong> deletes Token\
+<br>
+<br>
+Personal Access Token (PAT) differs most from Password Authentication because Users can have multiple Tokens and can limit the access for each Token while a User can only have one password and that password gives complete access. Tokens also have an optional expiration, providing the most security because Users have a smaller window of vulnerability than with a standard password. I think the GitHub page could emphasize the security benefits of using a PAT with an expiration date and the benefit of using multiple PATs.
