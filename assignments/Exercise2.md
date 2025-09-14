@@ -1,9 +1,9 @@
-concept PasswordAuthentication
-  - purpose limit access to known users
-  - principle after a user registers with a username and a password,
+<strong>concept</strong> PasswordAuthentication
+  - <strong>purpose</strong> limit access to known users
+  - <strong>principle</strong> after a user registers with a username and a password,
     they can authenticate with that same username and password
     and be treated each time as the same user
-  - state
+  - <strong>state</strong>
     + a set of Users with
     + an email address String
     + a username String
@@ -11,7 +11,7 @@ concept PasswordAuthentication
     + a confirmed flag
     + a token String
 
-  - actions
+  - <strong>actions</strong>
     + register (username: String, password: String, email: String): (user: User) (token: String)
       * <strong>requires</strong> a unique username
       * <strong>effect</strong>s creates a User with the associated username and password. Creates a new
