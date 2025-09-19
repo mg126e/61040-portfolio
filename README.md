@@ -10,9 +10,15 @@ Some fun facts about me:
 
 
 # Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)\
+[Assignment 1](assignments/assignment1.md)
+
 Problem Set 1\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Link to Exercise 1](assignments/Exercise1.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Link to Exercise 2](assignments/Exercise2.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Link to Exercise 3](assignments/Exercise3.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Link to Exercise 4](assignments/Exercise4.md)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 1](assignments/Exercise1_PS1.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 2](assignments/Exercise2_PS1.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 3](assignments/Exercise3_PS1.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 4](assignments/Exercise4_PS1.md)
+
+Promlem Set 2\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 1](ConceptQuestions_PS2.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 2](SynchronizationQuestions_PS2.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 3](ExtendingQuestions_PS2.md)
