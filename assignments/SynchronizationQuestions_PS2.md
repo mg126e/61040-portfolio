@@ -1,3 +1,5 @@
+Synchronization Questions
+
 1. **Partial matching**. In the first sync (called *generate*), the *Request.shortenUrl* action in the when clause includes the shortUrlBase argument but not the targetUrl argument. In the second sync (called register) both appear. Why is this?  
 
    **TargetURL is not included in the first sync because that information is not relevant to generate, the action only syncs with shortURLBase.**
