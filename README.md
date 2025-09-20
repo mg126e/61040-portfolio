@@ -21,4 +21,4 @@ Problem Set 1\
 Promlem Set 2\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 1](ConceptQuestions_PS2.md)\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 2](SynchronizationQuestions_PS2.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 3](ExtendingQuestions_PS2.md)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 3](ExtendQuestions_PS2.md)
