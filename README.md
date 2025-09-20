@@ -19,6 +19,6 @@ Problem Set 1\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 4](assignments/Exercise4_PS1.md)
 
 Promlem Set 2\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 1](ConceptQuestions_PS2.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 2](SynchronizationQuestions_PS2.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 3](ExtendQuestions_PS2.md)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 1](assignments/ConceptQuestions_PS2.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 2](assignments/SynchronizationQuestions_PS2.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 3](assignments/ExtendQuestions_PS2.md)
