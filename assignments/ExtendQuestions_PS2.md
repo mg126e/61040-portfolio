@@ -28,18 +28,29 @@ URL shortening services often provide analytics (see, for example, the offerings
 
    **I believe this feature would not be desirable because users could potentially access the analytics of other’s short URLs if user registration is not required. If it is open access there is a major security concern. On the other hand, if the user is recognized by their IP address, they would not be able to see their analytics if they switched devices. The best way to maintain security and user ease is to require users to register to view their short URLs analytics report.**
 
+**sync registerUser**
+  - **when** Request.registerUser ()
+  - **then** PasswordAuthentication.register ()
 
+**sync requestShortUrl**
+  - **when**
+    Request.shortenUrl ()
+    PasswordAuthentication.authenticate () : (User)
+  - **then**
+    UrlShortening.register () : (shortUrl)
+    AnalyticsLogging.initializeCount (Url: shortUrl, creator: User)
+    
 **sync registerAccess**
-  - **when** UrlShortening.lookup (shortUrl: Url) : (targetUrl)
+  - **when** UrlShortening.lookup (shortUrl) : ()
   - **then** AnalyticsLogging.recordAccess (shortUrl: Url)
 
-**sync setCount**
-  - **when** UrlShortening.register (): (shortUrl)
-  - **then** AnalyticsLogging.initializeCount (Url: shortUrl)
-
 **sync reportAnalytics**
-  - **when** Request.analytics (shortUrl: Url)
-  - **then** AnalyticsLogging.report (Url) : (count)
+  - **when**
+    Request.analytics (shortUrl)
+    PasswordAuthentication.authenticate () : (User)
+  - **then**
+    AnalyticsLogging.report (Url : shortUrl, Creator: User) : (count)
+
 
 **Concept** AnalyticsLogging \[AccessLogs\]\
 **Purpose** record and report the number of accesses to Urls\
@@ -49,18 +60,36 @@ URL shortening services often provide analytics (see, for example, the offerings
   - a set of AccessLogs with
     - a count Number
     - a Url String
+    - a creator User
   
 **Actions**
-  - report (Url: String) : (count: Number)
-    - **requires** Url exists in AccessLogs
+  - report (Url: String, creator: User) : (count: Number)
+    - **requires** Url exists in AccessLogs and user is the one associated with the AccessLog
     - **effect** returns count associated with the Url
   - recordAccess (Url: String)
     - **requires** Url exists in AccessLogs
     - **effect** increments Url’s count by one
-  - initializeCount (Url: String)
-    - **require** Url exists in AccessLogs with no initialized count associated with it
-    - **effect** initialize count to 0
+  - initializeCount (Url: String, creator: User) : (AccessLog)
+    - **require** Url not already in AccessLogs
+    - **effect** create new AccessLog, initialize count to 0, and associates entered user as the creator
 
-   My implementation of AnalysticsLogging keeps track of the successful lookups of the shortUrl and not the original URL. Similar to ShortenUrl’s delete action, it does not handle authentication of the user for actions like report that can only be carried out by the creator of the shortened URL.
 
-  
+**Concept** PasswordAuthentication \[Users\]\
+**Purpose** limit access to known Users\
+**Principle** The user registers their password and username. Each username is associated with exactly one password. Authentication succeeds only when the provided username and password match the stored pair.
+
+**State**
+  - A set of Users with
+    - A password String
+    - An username String
+
+**Actions**
+  - register (password: String, username : String)  : (u: User)
+    - **requires** a unique username
+    - **effect** creates a User with the associated username and password
+  - authenticate (password: String, username: String) : (u: User)
+    - **requires** username and password must match internal record for user
+    - **effects** if the user is authenticated, they will be treated each time as the same user associated with that username and password. Otherwise, fail
+
+
+My implementation of AnalysticsLogging keeps track of the successful lookups of the shortUrl and not the original URL. To ensure the analytics of a shortUrl is only accessed by its creator, the user must authenticate themselves when they request the analytics.
