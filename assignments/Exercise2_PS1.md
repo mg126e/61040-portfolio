@@ -5,11 +5,11 @@
     and be treated each time as the same user
   - <strong>state</strong>
     + a set of Users with
-    + an email address String
-    + a username String
-    + a password String
-    + a confirmed flag
-    + a token String
+      + an email address String
+      + a username String
+      + a password String
+      + a confirmed flag
+      + a token String
 
   - <strong>actions</strong>
     + register (username: String, password: String, email: String): (user: User) (token: String)
