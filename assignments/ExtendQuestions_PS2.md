@@ -27,6 +27,9 @@ URL shortening services often provide analytics (see, for example, the offerings
 6. Supporting reporting of analytics to creators of short URLs who have not registered as user.
 
    **I believe this feature would not be desirable because users could potentially access the analytics of other’s short URLs if user registration is not required. If it is open access there is a major security concern. On the other hand, if the user is recognized by their IP address, they would not be able to see their analytics if they switched devices. The best way to maintain security and user ease is to require users to register to view their short URLs analytics report.**
+<br>
+<br>
+<br>
 
 **sync registerUser**
   - **when** Request.registerUser ()
@@ -50,7 +53,9 @@ URL shortening services often provide analytics (see, for example, the offerings
     PasswordAuthentication.authenticate () : (User)
   - **then**
     AnalyticsLogging.report (Url : shortUrl, Creator: User) : (count)
-
+<br>
+<br>
+<br>
 
 **Concept** AnalyticsLogging \[AccessLogs\]\
 **Purpose** record and report the number of accesses to Urls\
@@ -72,7 +77,9 @@ URL shortening services often provide analytics (see, for example, the offerings
   - initializeCount (Url: String, creator: User) : (AccessLog)
     - **require** Url not already in AccessLogs
     - **effect** create new AccessLog, initialize count to 0, and associates entered user as the creator
-
+<br>
+<br>
+<br>
 
 **Concept** PasswordAuthentication \[Users\]\
 **Purpose** limit access to known Users\
@@ -90,6 +97,7 @@ URL shortening services often provide analytics (see, for example, the offerings
   - authenticate (password: String, username: String) : (u: User)
     - **requires** username and password must match internal record for user
     - **effects** if the user is authenticated, they will be treated each time as the same user associated with that username and password. Otherwise, fail
-
-
+<br>
+<br>
+<br>
 My implementation of AnalysticsLogging keeps track of the successful lookups of the shortUrl and not the original URL. To ensure the analytics of a shortUrl is only accessed by its creator, the user must authenticate themselves when they request the analytics.
