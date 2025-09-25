@@ -1,12 +1,12 @@
-# About Me
+# Software Design (6.1040) Portfolio
 
-My name is Marin, I'm a CS major and Art History minor!
+Course objective is to design software to fit a purpose through:
+1. User interface design
+2. State-and-Action data modeling
+3. Modularity and function design
+4. Incorporating Ai agents as components
 
-Some fun facts about me:
-1. I have two dogs
-2. I am studying abroad next semester
-3. I used to live in Switzerland
-
+**Status:** On-going
 
 
 # Table of Contents
@@ -18,7 +18,7 @@ Problem Set 1\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 3](assignments/Exercise3_PS1.md)\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 4](assignments/Exercise4_PS1.md)
 
-Promlem Set 2\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 1](assignments/ConceptQuestions_PS2.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 2](assignments/SynchronizationQuestions_PS2.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Excercise 3](assignments/ExtendQuestions_PS2.md)
+Problem Set 2\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 1](assignments/ConceptQuestions_PS2.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 2](assignments/SynchronizationQuestions_PS2.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 3](assignments/ExtendQuestions_PS2.md)
