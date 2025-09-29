@@ -1,4 +1,4 @@
-![UI Sketches](assignments/Images/UiSketch.png)
+![UI Sketches](Images/UiSketch.png)
 
 <br>
 <br>
