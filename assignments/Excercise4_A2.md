@@ -8,7 +8,10 @@
 <br>
 <br>
 
-**User Journey**\
+**User Journey**
+
+<br>
+
 A Wellesley student is preparing for registration and feels overwhelmed by the large number of courses available. They open Academica, register, and log in after confirming their email address. On the home page (page 1), they see a blank schedule.
 
 They navigate to the filter drop down next to the search bar and select “Biology” for the department and “200” for the level. Hitting enter, the app displays a filtered list of courses, reducing the overwhelming set to a manageable number relevant to their major.
