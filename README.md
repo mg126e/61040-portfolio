@@ -23,8 +23,4 @@ Problem Set 2\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 2](assignments/SynchronizationQuestions_PS2.md)\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 3](assignments/ExtendQuestions_PS2.md)
 
-Assignment 2\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 1](assignments/Excercise1_A2.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 2](assignments/Excercise2_A2.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 3](assignments/Excercise3_A2.md)\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 4](assignments/Excercise4_A2.md)
+[Assignment 2](assignments/Assignment2.md)
