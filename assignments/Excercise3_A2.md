@@ -166,3 +166,8 @@ In Academica, the app’s functionality is structured around four key concepts t
 The Course Filtering concept allows users to narrow down courses by tags with categories such as department, level, or graduation requirements and id Strings such as History or Chemistry. Its state maintains the active filters and the resulting set of courses, which ensures that users can only select relevant courses. The Course Scheduling concept builds on this, enabling users to create multiple schedules, add or remove courses, and compare them. Syncs such as selectCourse enforce that courses added to schedules come either from the filtered set or from valid user-created courses, maintaining consistency and preventing invalid selections.
 Additionally, the type courses in Course Scheduling is bound to course objects from Course Filtering, ensuring that scheduling actions only reference valid course data.
 
+<br>
+<br>
+
+
+[Back to Assignment 2](Assignment2.md)
