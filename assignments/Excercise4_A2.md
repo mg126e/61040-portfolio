@@ -19,3 +19,9 @@ They navigate to the filter drop down next to the search bar and select “Biolo
 The student clicks on a course to view the professor’s rating and any distribution requirements it satisfies (page 1). Liking the course, they click it to add it to their schedule, then repeat the process to add five more courses. After reviewing their schedule, they remove two courses, leaving a full load of four.
 
 Finally, they export their finalized schedule to their Google Calendar, where they can view class names and times. The student feels relieved: they planned their schedule quickly, efficiently, and now have an easy reference for the semester.
+
+
+<br>
+<br>
+
+[Back to Assignment 2](Assignment2.md)
