@@ -22,3 +22,9 @@ Problem Set 2\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 1](assignments/ConceptQuestions_PS2.md)\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 2](assignments/SynchronizationQuestions_PS2.md)\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 3](assignments/ExtendQuestions_PS2.md)
+
+Assignment 2\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 1](assignments/Exercise1_A2.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 1](assignments/Exercise2_A2.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 1](assignments/Exercise3_A2.md)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 1](assignments/Exercise4_A2.md)\
