@@ -1,4 +1,4 @@
-![UI Sketches](assignments/Images/Screenshot 2025-09-28 230118.png)
+![UI Sketches](assignments/Images/UiSketch.png)
 
 <br>
 <br>
