@@ -19,3 +19,9 @@ I feel like I devote a significant amount of time searching for Wellesley’s de
 **Comparable:**
 -	[University of Wisconsin Madison](https://news.wisc.edu/6-steps-to-building-the-perfect-college-schedule/): an app catered to their student body for class registration with specific features to streamline registration given their specific graduation and registration requirements.
 -	[Coursicle](https://www.coursicle.com/): A website to help college students plan and register for classes and get notified when classes have availability.
+
+
+<br>
+<br>
+
+[Back to Assignment 2](Assignment2.md)
