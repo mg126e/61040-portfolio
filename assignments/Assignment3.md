@@ -1,5 +1,11 @@
+**Task 2: Design the user interaction**
+
+<br>
+
 ![UI Sketch Page 1](Images/IMG_0285.jpg)
 ![UI Sketch Page 2](Images/IMG_0285.jpg)
+
+<br>
 
 **User Journey**
 
