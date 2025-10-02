@@ -2,7 +2,7 @@
 
 <br>
 
-![UI Sketch Page 1](Images/IMG_0285.jpg)
+![UI Sketch Page 1](Images/IMG_0286.jpg)
 ![UI Sketch Page 2](Images/IMG_0285.jpg)
 
 <br>
