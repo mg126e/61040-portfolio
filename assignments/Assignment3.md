@@ -1,3 +1,6 @@
+![UI Sketch Page 1](assignments/Images/IMG_0285.jpg)
+![UI Sketch Page 2](assignments/Images/IMG_0285.jpg)
+
 **User Journey**
 
 A Wellesley student is preparing for registration and feels overwhelmed by the large number of courses available. They open Academica, register, and log in after confirming their email address. On the home page (page 1), they see a blank schedule.
