@@ -1,5 +1,5 @@
-![UI Sketch Page 1](assignments/Images/IMG_0285.jpg)
-![UI Sketch Page 2](assignments/Images/IMG_0285.jpg)
+![UI Sketch Page 1](Images/IMG_0285.jpg)
+![UI Sketch Page 2](Images/IMG_0285.jpg)
 
 **User Journey**
 
