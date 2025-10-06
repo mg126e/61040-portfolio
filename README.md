@@ -24,3 +24,5 @@ Problem Set 2\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Exercise 3](assignments/ExtendQuestions_PS2.md)
 
 [Assignment 2](assignments/Assignment2.md)
+
+[Assignment 3](https://github.com/mg126e/courseFiltering.git)
