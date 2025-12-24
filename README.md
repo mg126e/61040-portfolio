@@ -6,7 +6,7 @@ Course objective is to design software to fit a purpose through:
 3. Modularity and function design
 4. Incorporating Ai agents as components
 
-**Status:** On-going
+**Status:** Complete
 
 
 # Table of Contents
