@@ -29,11 +29,13 @@ Problem Set 2\
 
 ### Individual Project:
 Course Scheduling Web App
+
 [Academica Backend](https://github.com/mg126e/Academica)\
 [Academica Frontend](https://github.com/mg126e/Academica_frontend/tree/main)
 
 ### Final Group Project: 
 Web App to match runners
+
 [RunningBuddy Backend](https://github.com/mg126e/Project_Backend)\
 [RunningBuddy Frontend](https://github.com/mg126e/Project_Frontend)
 
