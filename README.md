@@ -28,7 +28,7 @@ Problem Set 2\
 [Assignment 3](https://github.com/mg126e/courseFiltering.git)
 
 ### Individual Project:
-Course Scheduling Web App
+Course scheduling Web App
 
 [Academica Backend](https://github.com/mg126e/Academica)\
 [Academica Frontend](https://github.com/mg126e/Academica_frontend/tree/main)
