@@ -27,11 +27,13 @@ Problem Set 2\
 
 [Assignment 3](https://github.com/mg126e/courseFiltering.git)
 
-Individual Project:
-[Academica Backend](https://github.com/mg126e/Academica)
+### Individual Project:
+Course Scheduling Web App
+[Academica Backend](https://github.com/mg126e/Academica)\
 [Academica Frontend](https://github.com/mg126e/Academica_frontend/tree/main)
 
-Final Group Project: 
-[RunningBuddy Backend](https://github.com/mg126e/Project_Backend)
+### Final Group Project: 
+Web App to match runners
+[RunningBuddy Backend](https://github.com/mg126e/Project_Backend)\
 [RunningBuddy Frontend](https://github.com/mg126e/Project_Frontend)
 
